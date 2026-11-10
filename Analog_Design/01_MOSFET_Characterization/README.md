@@ -24,11 +24,11 @@ The PMOS device was simulated for the following characteristics:
 
 ### Testbench Schematics
 
-**Testbench for the $I_D$–$V_{DS}$ sweep**
+**Testbench for the I<sub>D</sub>–V<sub>DS</sub> sweep**
 
 ![PMOS ID-VDS testbench](images/Schematics/pmos_id_vds_testbench.png)
 
-**Testbench for the $I_D$–$V_{GS}$ sweep**
+**Testbench for the I<sub>D</sub>–V<sub>GS</sub> sweep**
 
 ![PMOS ID-VGS testbench](images/Schematics/pmos_id_vgs_testbench.png)
 

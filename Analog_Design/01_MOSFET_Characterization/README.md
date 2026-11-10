@@ -34,11 +34,11 @@ The PMOS device was simulated for the following characteristics:
 
 ### Simulation Results
 
-**$I_D$–$V_{DS}$ characteristics for different $V_{GS}$**
+**I<sub>D</sub>–V<sub>DS</sub> characteristics for different V<sub>GS</sub>**
 
 ![PMOS ID versus VDS for gate-voltage sweep](images/Characteristics/pmos_id_vs_vds_for_gate_voltage_sweep.jpg)
 
-**$I_D$–$V_{GS}$ characteristics for different $V_{DS}$**
+**I<sub>D</sub>–V<sub>GS</sub> characteristics for different V<sub>DS</sub>**
 
 ![PMOS ID versus VGS for drain-voltage sweep](images/Characteristics/pmos_id_vs_vgs_for_drain_voltage_sweep.jpg)
 

@@ -113,10 +113,10 @@ $$
 Using the square-law expression:
 
 $$
-\left(\frac{W}{L}\right)_{1,2}
-=
+\displaystyle
+(W/L)_{1,2} =
 \frac{g_{m1}^{2}}
-{2\mu_n C_{ox} I_{D1}}
+{2\,\mu_n C_{ox} I_{D1}}
 $$
 
 The report first obtains an analytical ratio of approximately 0.29, then scales the implemented input-pair dimensions to 15 µm / 1.5 µm (W/L = 10).

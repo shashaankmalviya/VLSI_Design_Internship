@@ -113,10 +113,10 @@ $$
 Using the square-law expression:
 
 $$
-\left(\frac{W}{L}\right)_{1,2}
-=
+\displaystyle
+(W/L)_{1,2} =
 \frac{g_{m1}^{2}}
-{2\mu_n C_{ox} I_{D1}}
+{2\,\mu_n C_{ox} I_{D1}}
 $$
 
 The analytical sizing gives a W/L ratio of approximately 0.29. The implemented input pair uses dimensions of 15 µm / 1.5 µm (W/L = 10).
@@ -405,21 +405,9 @@ The design performance is summarized below.
 | Supply voltage | 1.8 V | 1.8 V |
 | Total power consumption | Minimum | 126 µW |
 
-## Repository Contents
-
-```text
-Analog_Mini_Project_Two_Stage_CMOS_OpAmp/
-├── images/
-│   ├── Schematic/
-│   │   └── Two_Stage_CMOS_OpAmp_Schematic.png
-│   └── AC_Analysis/
-│       └── Open_Loop_Gain_and_Phase_Response.png
-├── Two_Stage_CMOS_OpAmp_Project_Report.pdf
-└── README.md
-```
 
 ## Project Report
 
-The complete submitted project report is included in this repository:
+The complete submitted project report is included in this file:
 
 [Two-Stage CMOS Op-Amp Project Report](Two_Stage_CMOS_OpAmp_Project_Report.pdf)

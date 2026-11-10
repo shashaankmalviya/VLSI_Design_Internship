@@ -16,17 +16,6 @@ The project covers Verilog RTL design, functional simulation, waveform analysis,
 - Evaluate code coverage using VCS.
 - Synthesize the RTL using Synopsys Design Compiler and analyze the generated reports.
 
-## Repository Structure
-
-```text
-Automatic_Railway_Level_Crossing_Controller/
-├── src/
-│   └── railway_controller.v
-├── tb/
-│   └── tb_railway.v
-├── Mini_Project_Report.pdf
-└── README.md
-```
 
 ## Input and Output Signals
 
